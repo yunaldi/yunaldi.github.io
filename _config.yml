@@ -1,11 +1,11 @@
 # Site
 title:              Yunaldi Rezki Putra
-bio:                'Welcome my self.'
+bio:                'Welcome to my self.'
 description:        "Sistem Informasi."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/yunaldi.jpg'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/Instasize_0529133401.jpg'
+background:         'assets/img/11910106_1685045518396454_784843531_n.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://yunaldi.github.io
