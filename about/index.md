@@ -9,7 +9,7 @@ date: 2016-03-21
 
 <center>BIODATA</center>
 
-logo:               'assets/img/Instasize_0415103301.jpg'
+<img src="/assets/img/Instasize_0415103301.jpg" height="42" width="42">
 <p><h3>Nama : Yunaldi Rezki Putra </h3>
 <p><h3>Nim : 11353103452 </h3>
 <p><h3>Jurusan : <a href ="http://sif.uin-suska.ac.id/">Sistem Informasi</a></h3>
