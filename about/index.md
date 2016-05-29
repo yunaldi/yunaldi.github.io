@@ -7,7 +7,7 @@ date: 2016-03-21
 
 
 
-<center>BIODATA</center>
+<center><h1>BIODATA</h1></center>
 
 <img src="/assets/img/Instasize_0415103301.jpg" height="42" width="42">
 <p><h3>Nama : Yunaldi Rezki Putra </h3>
