@@ -7,7 +7,7 @@ date: 2016-03-21
 
 
 
-##<center>biodata</center>
+<center>biodata</center>
 
 
 <p><h3>Nama : Yunaldi Rezki Putra </h3>
