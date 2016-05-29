@@ -18,4 +18,4 @@ date: 2016-03-21
 <p><h3>Hobi : traveling, bermain game, dan bermain bola</a></h3>
 <p><h3>sekian perkenalan singkat saya</a></h3>
 
-<center>TERIMAKSIH</center>
+<center><h2>TERIMAKSIH</h2></center>
